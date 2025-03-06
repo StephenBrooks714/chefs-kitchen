@@ -1,0 +1,29 @@
+{
+  "name": "chefskitchen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express.js", "javascript", "express app"
+  ],
+  "author": "Stephen Brooks",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "connect-flash": "^0.1.1",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "mdb-ui-kit": "^8.2.0",
+    "mongoose": "^8.12.1",
+    "multer": "^1.4.5-lts.1",
+    "npm": "^11.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
